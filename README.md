@@ -3,3 +3,4 @@
 + 스와이프 벽돌깨기를 따라 만들었습니다.
   + [스와이프 벽돌깨기 - Google Play](https://play.google.com/store/apps/details?id=com.Monthly23.SwipeBrickBreaker&hl=ko)
 + 목표물의 값에 따라 색은 그라데이션됩니다 (낮을수록 밝은색)
++ 스테이지만큼 공이 생성되고 마지막 공이 떨어진 지점에서 다시 발사를 시작합니다
